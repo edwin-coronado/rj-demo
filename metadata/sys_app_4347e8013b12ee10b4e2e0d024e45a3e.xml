@@ -17,14 +17,14 @@
         <logo/>
         <menu/>
         <name>RJApp</name>
-        <package_json>x_acme_rjapp/x-acme-rj-app/1.0.0/package.json</package_json>
+        <package_json>x_snc_rjapp/x-snc-rj-app/1.0.0/package.json</package_json>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_acme_rjapp</scope>
+        <scope>x_snc_rjapp</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_acme_rjapp</source>
+        <source>x_snc_rjapp</source>
         <store_correlation_id/>
         <store_url/>
         <subscription_entitlement/>
