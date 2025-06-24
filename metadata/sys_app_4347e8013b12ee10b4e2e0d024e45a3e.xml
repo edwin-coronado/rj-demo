@@ -17,7 +17,7 @@
         <logo/>
         <menu/>
         <name>RJApp</name>
-        <package_json>x_snc_rjapp/x-snc-rj-app/1.0.0/package.json</package_json>
+        <package_json>x_snc_rjapp/x-snc-rj-app/1.0.2/package.json</package_json>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -42,7 +42,7 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.2</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=4347e8013b12ee10b4e2e0d024e45a3e"/>
 </record_update>
