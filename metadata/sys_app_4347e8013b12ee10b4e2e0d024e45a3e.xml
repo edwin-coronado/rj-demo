@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_app">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
@@ -16,8 +15,8 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>RJApp</name>
-        <package_json>x_snc_rjapp/x-snc-rj-app/1.0.2/package.json</package_json>
+        <name>Raymond James App</name>
+        <package_json display_value="x_snc_rjapp/x-snc-rj-app/1.0.2/package.json" path="x_snc_rjapp/x-snc-rj-app/1.0.2/package.json">x_snc_rjapp/x-snc-rj-app/1.0.2/package.json</package_json>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -33,9 +32,9 @@
         <sys_created_by/>
         <sys_created_on/>
         <sys_id>4347e8013b12ee10b4e2e0d024e45a3e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-20 22:47:49</sys_updated_on>
+        <sys_updated_on>2025-06-24 03:09:15</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
