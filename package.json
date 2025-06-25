@@ -1,6 +1,6 @@
 {
     "name": "x-snc-rj-app",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Raymond James app",
     "license": "UNLICENSED",
     "scripts": {
